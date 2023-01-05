@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667746983 source:e:\kuliah\semester 3\praktikum struktur data\c++\tpmod7\main.cpp
+	<iostream>
+	"TPMOD7.h"
+
+1667746890 e:\kuliah\semester 3\praktikum struktur data\c++\tpmod7\tpmod7.h
+	<iostream>
+
+1667750518 source:e:\kuliah\semester 3\praktikum struktur data\c++\tpmod7\tpmod7.cpp
+	"TPMOD7.h"
+
